@@ -44,9 +44,9 @@ python infer_lora_chat.py
 
 ## 結果展示
 
-![1793271116274](image/README/1793271116274.png)
+infer_chat.png
 
-![1793271146363](image/README/1793271146363.png)
+loss_curve.png
 
 ## 其它你想要補充標題和內容
 
